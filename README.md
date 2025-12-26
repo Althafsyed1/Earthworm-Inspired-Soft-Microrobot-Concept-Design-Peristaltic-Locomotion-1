@@ -19,9 +19,7 @@ Key Components (Concept)
 - **Mechanical Packaging:** SolidWorks-based housing/integration concept (if included)
 
 ## What’s Included
-- Full concept report (PDF) with assumptions, calculations, and system workflow  
-- Figures and diagrams (optional)  
-- CAD exports (optional, if permitted)
+- Full concept report (PDF) with assumptions, calculations, system work, flowFigures and diagrams 
 
 ## Files
 - `report/` – final concept report PDF  
@@ -32,11 +30,10 @@ Key Components (Concept)
 If you reference this work, please cite the report in `report/`.
 
 ## Team
-- Bhagyath Badduri  
 - Mohammad Althaf Syed  
+- Bhagyath Badduri
 - Sai Likhit Nuvvala
 
 ## License
 Choose one:
-- **MIT** (open use with attribution)
-- **CC BY-NC 4.0** (good if you want “no commercial use”)
+- **CC BY-NC 4.0** 
